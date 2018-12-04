@@ -1,7 +1,7 @@
-# Ludum Dare 43 Compo Entry
+# Ludum Dare 43 Entry
 
 Game written in Rust with the [Amethyst game engine](https://github.com/amethyst/amethyst/)
-for the Ludum Dare 43 compo.
+for Ludum Dare 43.
 
 Move the player with the arrow keys.  Deflect each mob before it escapes the screen
 to score a point.  Lose a point if a mob escapes without being deflected.
