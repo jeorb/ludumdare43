@@ -1,6 +1,6 @@
 # Ludum Dare 43 Compo Entry
 
-Game written in Rust with the [Amethyst game engine](https://jeorb.github.io/icfp2006/web/)
+Game written in Rust with the [Amethyst game engine](https://github.com/amethyst/amethyst/)
 for the Ludum Dare 43 compo.
 
 Move the player with the arrow keys.  Deflect each mob before it escapes the screen
