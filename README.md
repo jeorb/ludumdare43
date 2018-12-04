@@ -18,3 +18,7 @@ I submitted this to the Jam rather than the compo for two reasons:
 Enjoy!
 
 (Or more likely not :-P)
+
+![Screenshot](https://github.com/jeorb/ludumdare43/raw/master/screenshots/title_screen.png "Screenshot of Start Screen")
+![Screenshot](https://github.com/jeorb/ludumdare43/raw/master/screenshots/game_screen.png "Screenshot of Game Screen")
+![Screenshot](https://github.com/jeorb/ludumdare43/raw/master/screenshots/game_over_screen.png "Screenshot of Game Over Screen")
